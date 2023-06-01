@@ -1,4 +1,4 @@
 # test.py
 
 def func():
-    return "test"
+    return print("test")
